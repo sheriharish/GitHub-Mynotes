@@ -1,0 +1,6 @@
+git squash ?
+git stash ?
+git cherry-pick ?
+
+
+If you install IIS in window machine then it will become webserver.
